@@ -1,5 +1,5 @@
 services:
-  web:
+  app:
     # Build the image from the Dockerfile in the current directory
     build: .
 
