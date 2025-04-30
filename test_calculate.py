@@ -1,4 +1,3 @@
-import pytest
 from decimal import Decimal
 from calculate import optimal_calc_prices
 
