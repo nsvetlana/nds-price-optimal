@@ -1,5 +1,5 @@
 [project]
-name = "nds-price-optimal"
+name = "ndspriceoptimizer"
 version = "0.1.0"
 description = "Calculating optimal price"
 requires-python = ">=3.12"
